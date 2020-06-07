@@ -46,6 +46,6 @@ After 15 minutes have passed, use a fork and lift up the rice in the middle of t
 
 If some water pools at the bottom, simmer for another 5 minutes.
 
-If not, your done!!!
+When no water remains you are done!!!
 
 ![Final Result](/chicken_rice.jpg)
