@@ -3,12 +3,5 @@ module.exports = {
     theme: '@vuepress/theme-blog',
     themeConfig: {
       // Please keep looking down to see the available options.
-    },
-    configureWebpack: {
-        resolve: {
-          alias: {
-            '@image': 'blog/images/'
-          }
-        }
-      }
+    }
   }
