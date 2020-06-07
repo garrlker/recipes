@@ -48,4 +48,4 @@ If some water pools at the bottom, simmer for another 5 minutes.
 
 When no water remains you are done!!!
 
-![Final Result](/chicken_rice.jpg)
+![Final Result](/chicken_rice.png)
