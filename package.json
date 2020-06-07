@@ -1,0 +1,23 @@
+{
+  "name": "recipe-blog",
+  "version": "0.0.1",
+  "description": "VuePress Site for writing down my recipes",
+  "main": "index.js",
+  "scripts": {
+    "build": "vuepress build blog",
+    "dev": "vuepress dev blog --host localhost",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "author": "Garrett Walker",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  },
+  "dependencies": {
+    "@vuepress/theme-blog": "^2.2.0"
+  },
+  "resolutions": {
+    "watchpack": "1.6.1"
+  }
+}
